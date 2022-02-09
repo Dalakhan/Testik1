@@ -1,0 +1,105 @@
+body {
+	background-image: url(valheim.jpg);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: 100%
+}
+.start-test1 {
+	height: 950px;
+	background-color: grey;
+	text-align: center;
+	display: none;
+}
+.buttons-start {
+	width: 250px;
+	height: 70px;
+	background: #F2B0C0;
+	font-size: 35px;
+	padding-top: 5px;
+}
+
+
+.box1 {
+	height: 950px;
+	background: #F2B0C0;
+	display: none;
+	text-align: center;
+}
+.buttons-iaglut {
+	width: 250px;
+	height: 70px;
+	background: gray;
+	font-size: 35px;
+	padding-top: 5px;
+}
+.buttons-maters {
+	width: 250px;
+	height: 70px;
+	background: gray;
+	font-size: 35px;
+	padding-top: 5px;
+}
+.buttons-drevni {
+	width: 250px;
+	height: 70px;
+	background: gray;
+	font-size: 35px;
+	padding-top: 5px;
+}
+.buttons-iktyr {
+	width: 250px;
+	height: 70px;
+	background: gray;
+	font-size: 35px;
+	padding-top: 5px;
+}
+
+
+.box2 {
+	height: 950px;
+	background: #F2B0C0;
+	display: none;
+	text-align: center;
+}
+.buttons-Meadows {
+	width: 250px;
+	height: 100px;
+	background: gray;
+	font-size: 35px;
+	padding-top: 5px;
+}
+.buttons-BlackForest {
+	width: 250px;
+	height: 100px;
+	background: gray;
+	font-size: 35px;
+	padding-top: 5px;
+}
+.buttons-Swamps {
+	width: 250px;
+	height: 100px;
+	background: gray;
+	font-size: 35px;
+	padding-top: 5px;
+}
+.buttons-Dawn {
+	width: 250px;
+	height: 100px;
+	background: gray;
+	font-size: 35px;
+	padding-top: 5px;
+}
+
+
+.box3 {
+	height: 1700px;
+	background: #F2B0C0;
+	display: none;
+	text-align: center;
+}
+.the_end {
+	height: 950px;
+	background-color: grey;
+	text-align: center;
+	display: none;
+}
